@@ -18,6 +18,22 @@ teams and players.
 - Matplotlib
 - Google Colab
 
+## Visualisations
+
+### Top Run Scorers
+![Top Run Scorers](Visuals/Top Run scorers.png)
+
+### Toss Impact
+![Toss Impact](Visuals/Does winning the toss help?.png)
+
+### BBL Team Wins
+![Team Wins](Visuals/BBL Team wins all time.png)
+
+### Perth Home vs Away
+![Home vs Away](Visuals/Perth Home Vs Away.png)
+
+
+
 ## Dataset
 Big Bash League dataset from Kaggle containing match summaries 
 and ball by ball delivery data across multiple BBL seasons.
